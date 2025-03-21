@@ -1,0 +1,41 @@
+/*MenuHeader_styles.css*/
+
+
+header {
+    background-color: #f3d5af;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+.menu-button {
+    background-color: #f3d5af;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 5px black;
+    position: absolute;
+    left: 20px;
+}
+
+.ischool img {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    border-radius: 10px;
+}
+
+
+
+.menu-button img {
+    width: 30px;
+}
+.logo img {
+    height: 100px;
+    width: 150px;
+}
